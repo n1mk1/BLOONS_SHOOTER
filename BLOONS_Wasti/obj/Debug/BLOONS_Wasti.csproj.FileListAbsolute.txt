@@ -1,0 +1,56 @@
+E:\Bloons_WASTI\BLOONS_Wasti\bin\Debug\BLOONS_Wasti.exe.config
+E:\Bloons_WASTI\BLOONS_Wasti\bin\Debug\BLOONS_Wasti.exe
+E:\Bloons_WASTI\BLOONS_Wasti\bin\Debug\BLOONS_Wasti.pdb
+E:\Bloons_WASTI\BLOONS_Wasti\obj\Debug\BLOONS_Wasti.csprojAssemblyReference.cache
+E:\Bloons_WASTI\BLOONS_Wasti\obj\Debug\BLOONS_Wasti.Properties.Resources.resources
+E:\Bloons_WASTI\BLOONS_Wasti\obj\Debug\BLOONS_Wasti.csproj.GenerateResource.cache
+E:\Bloons_WASTI\BLOONS_Wasti\obj\Debug\BLOONS_Wasti.exe
+E:\Bloons_WASTI\BLOONS_Wasti\obj\Debug\BLOONS_Wasti.pdb
+E:\Bloons_WASTI\BLOONS_Wasti\obj\Debug\BLOONS_Wasti.MAIN_MENU.resources
+E:\Bloons_WASTI\BLOONS_Wasti\obj\Debug\BLOONS_Wasti.CHOICE.resources
+E:\Bloons_WASTI\BLOONS_Wasti\obj\Debug\BLOONS_Wasti.HOW_TO_PLAY.resources
+E:\Bloons_WASTI\BLOONS_Wasti\obj\Debug\BLOONS_Wasti.GAME.resources
+G:\My Drive\BLOONS_Wasti\BLOONS_Wasti\bin\Debug\BLOONS_Wasti.exe.config
+G:\My Drive\BLOONS_Wasti\BLOONS_Wasti\bin\Debug\BLOONS_Wasti.exe
+G:\My Drive\BLOONS_Wasti\BLOONS_Wasti\bin\Debug\BLOONS_Wasti.pdb
+G:\My Drive\BLOONS_Wasti\BLOONS_Wasti\obj\Debug\BLOONS_Wasti.csprojAssemblyReference.cache
+G:\My Drive\BLOONS_Wasti\BLOONS_Wasti\obj\Debug\BLOONS_Wasti.MAIN_MENU.resources
+G:\My Drive\BLOONS_Wasti\BLOONS_Wasti\obj\Debug\BLOONS_Wasti.CHOICE.resources
+G:\My Drive\BLOONS_Wasti\BLOONS_Wasti\obj\Debug\BLOONS_Wasti.GAME.resources
+G:\My Drive\BLOONS_Wasti\BLOONS_Wasti\obj\Debug\BLOONS_Wasti.HOW_TO_PLAY.resources
+G:\My Drive\BLOONS_Wasti\BLOONS_Wasti\obj\Debug\BLOONS_Wasti.Properties.Resources.resources
+G:\My Drive\BLOONS_Wasti\BLOONS_Wasti\obj\Debug\BLOONS_Wasti.csproj.GenerateResource.cache
+G:\My Drive\BLOONS_Wasti\BLOONS_Wasti\obj\Debug\BLOONS_Wasti.exe
+G:\My Drive\BLOONS_Wasti\BLOONS_Wasti\obj\Debug\BLOONS_Wasti.pdb
+G:\My Drive\BLOONS_Wasti\BLOONS_Wasti\obj\Debug\BLOONS_Wasti.HIGH_SCORE.resources
+C:\Users\towas\Music\BLOONS_Wasti\BLOONS_Wasti\bin\Debug\BLOONS_Wasti.exe.config
+C:\Users\towas\Music\BLOONS_Wasti\BLOONS_Wasti\bin\Debug\BLOONS_Wasti.exe
+C:\Users\towas\Music\BLOONS_Wasti\BLOONS_Wasti\bin\Debug\BLOONS_Wasti.pdb
+C:\Users\towas\Music\BLOONS_Wasti\BLOONS_Wasti\obj\Debug\BLOONS_Wasti.csprojAssemblyReference.cache
+C:\Users\towas\Music\BLOONS_Wasti\BLOONS_Wasti\obj\Debug\BLOONS_Wasti.MAIN_MENU.resources
+C:\Users\towas\Music\BLOONS_Wasti\BLOONS_Wasti\obj\Debug\BLOONS_Wasti.CHOICE.resources
+C:\Users\towas\Music\BLOONS_Wasti\BLOONS_Wasti\obj\Debug\BLOONS_Wasti.GAME.resources
+C:\Users\towas\Music\BLOONS_Wasti\BLOONS_Wasti\obj\Debug\BLOONS_Wasti.HIGH_SCORE.resources
+C:\Users\towas\Music\BLOONS_Wasti\BLOONS_Wasti\obj\Debug\BLOONS_Wasti.HOW_TO_PLAY.resources
+C:\Users\towas\Music\BLOONS_Wasti\BLOONS_Wasti\obj\Debug\BLOONS_Wasti.Properties.Resources.resources
+C:\Users\towas\Music\BLOONS_Wasti\BLOONS_Wasti\obj\Debug\BLOONS_Wasti.csproj.GenerateResource.cache
+C:\Users\towas\Music\BLOONS_Wasti\BLOONS_Wasti\obj\Debug\BLOONS_Wasti.exe
+C:\Users\towas\Music\BLOONS_Wasti\BLOONS_Wasti\obj\Debug\BLOONS_Wasti.pdb
+C:\Users\towas\Downloads\BLOONS_Wasti\BLOONS_Wasti\obj\Debug\BLOONS_Wasti.csproj.AssemblyReference.cache
+C:\Users\towas\Downloads\BLOONS_Wasti\BLOONS_Wasti\obj\Debug\BLOONS_Wasti.MAIN_MENU.resources
+C:\Users\towas\Downloads\BLOONS_Wasti\BLOONS_Wasti\obj\Debug\BLOONS_Wasti.CHOICE.resources
+C:\Users\towas\Downloads\BLOONS_Wasti\BLOONS_Wasti\obj\Debug\BLOONS_Wasti.GAME.resources
+C:\Users\towas\Downloads\BLOONS_Wasti\BLOONS_Wasti\obj\Debug\BLOONS_Wasti.HIGH_SCORE.resources
+C:\Users\towas\Downloads\BLOONS_Wasti\BLOONS_Wasti\obj\Debug\BLOONS_Wasti.HOW_TO_PLAY.resources
+C:\Users\towas\Downloads\BLOONS_Wasti\BLOONS_Wasti\obj\Debug\BLOONS_Wasti.csproj.GenerateResource.cache
+C:\Users\towas\Downloads\BLOONS_Wasti\BLOONS_Wasti\obj\Debug\BLOONS_Wasti.exe
+C:\Users\towas\Downloads\BLOONS_Wasti\BLOONS_Wasti\obj\Debug\BLOONS_Wasti.pdb
+C:\Users\towas\Desktop\aswastirepo\BLOONS\BLOONS_Wasti\obj\Debug\BLOONS_Wasti.csproj.AssemblyReference.cache
+C:\Users\towas\Desktop\aswastirepo\BLOONS\BLOONS_Wasti\obj\Debug\BLOONS_Wasti.MAIN_MENU.resources
+C:\Users\towas\Desktop\aswastirepo\BLOONS\BLOONS_Wasti\obj\Debug\BLOONS_Wasti.CHOICE.resources
+C:\Users\towas\Desktop\aswastirepo\BLOONS\BLOONS_Wasti\obj\Debug\BLOONS_Wasti.GAME.resources
+C:\Users\towas\Desktop\aswastirepo\BLOONS\BLOONS_Wasti\obj\Debug\BLOONS_Wasti.HIGH_SCORE.resources
+C:\Users\towas\Desktop\aswastirepo\BLOONS\BLOONS_Wasti\obj\Debug\BLOONS_Wasti.HOW_TO_PLAY.resources
+C:\Users\towas\Desktop\aswastirepo\BLOONS\BLOONS_Wasti\obj\Debug\BLOONS_Wasti.csproj.GenerateResource.cache
+C:\Users\towas\Desktop\aswastirepo\BLOONS\BLOONS_Wasti\obj\Debug\BLOONS_Wasti.exe
+C:\Users\towas\Desktop\aswastirepo\BLOONS\BLOONS_Wasti\obj\Debug\BLOONS_Wasti.pdb

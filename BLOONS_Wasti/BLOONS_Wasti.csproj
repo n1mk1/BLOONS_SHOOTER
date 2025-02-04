@@ -1,0 +1,263 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{FC00DC4E-3980-46AB-B59E-500FE2C2C59E}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>BLOONS_Wasti</RootNamespace>
+    <AssemblyName>BLOONS_Wasti</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="bullet.cs" />
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form2.Designer.cs">
+      <DependentUpon>Form2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GAME.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GAME.Designer.cs">
+      <DependentUpon>GAME.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HIGH SCORE.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HIGH SCORE.Designer.cs">
+      <DependentUpon>HIGH SCORE.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HOW TO PLAY.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HOW TO PLAY.Designer.cs">
+      <DependentUpon>HOW TO PLAY.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form2.resx">
+      <DependentUpon>Form2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GAME.resx">
+      <DependentUpon>GAME.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HIGH SCORE.resx">
+      <DependentUpon>HIGH SCORE.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HOW TO PLAY.resx">
+      <DependentUpon>HOW TO PLAY.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\HTPKEYS" />
+    <None Include="Resources\MAINMENU.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BUTTON ANIMATION.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CODE MONKEY.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TANK.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\QUINCY.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\EGYPT.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\GARDEN.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\JUNGLE.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CODER LV1.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TANK LV1.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\heads.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Qhead.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\HTPBACK.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\evil.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\HTP CONTROL.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\keys.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BACK.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CODE.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TANKY.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\QSHOW.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Churchill_Hell_from_above_ringtone.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Quincy_nothing_gets_past_my_bow.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BTD6_Ringtone_Benjamin_Rules_Broken.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BTD6 - Bloons Tower Defense 6 Official Soundtrack.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CDOWN1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CLEFT1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CRIGHT1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CUP1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TDOWN 1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TLEFT1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TRIGHT1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TUP1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\QLEFT.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\QRIGHT.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\QUP.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\zdown.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\zleft.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\zright.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\zup.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ammo-Image.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dead.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\health.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DISAPPOINT.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\HAPPY.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\MAD.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\zdown1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\QDOWN.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
